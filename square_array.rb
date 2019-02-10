@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  Array = []
+  array.each do
+    
 end
